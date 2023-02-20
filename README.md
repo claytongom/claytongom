@@ -14,3 +14,8 @@ Tenho 37 anos e atualmente estou me especializando em desenvolvimento web e foca
 
 ---
 [![](https://visitcount.itsvg.in/api?id=claytongom&icon=2&color=0)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/claytongom/claytongom/blob/output/github-contribution-grid-snake.svg)
+
+
+
