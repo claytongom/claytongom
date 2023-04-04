@@ -1,4 +1,4 @@
-### Olá! Eu sou o Clayton Gomes
+### Olá! Eu sou o Clayton
 Tenho 37 anos e atualmente estou me especializando em desenvolvimento web e focando em soluções web empresariais. Sou apaixonado por tecnologia e estou sempre em busca de aprender coisas novas. Acredito que o desenvolvimento web pode ter um impacto positivo na vida das pessoas e estou ansioso para aplicar minhas habilidades e experiências adquiridas. Sou casado, moro em São Paulo-SP e adoro fazer trekking de montanha.
 
 
