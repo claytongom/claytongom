@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/113382266/229936773-53061f97-8a32-401d-a5da-01235fc69cc2.gif" />
+</div>
+
 ### Olá! Eu sou o Clayton
 Tenho 37 anos e atualmente estou me especializando em desenvolvimento web e focando em soluções web empresariais. Sou apaixonado por tecnologia e estou sempre em busca de aprender coisas novas. Acredito que o desenvolvimento web pode ter um impacto positivo na vida das pessoas e estou ansioso para aplicar minhas habilidades e experiências adquiridas. Sou casado, moro em São Paulo-SP e adoro fazer trekking de montanha.
 
