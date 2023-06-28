@@ -15,8 +15,14 @@ In my free time i like to:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/claytongomesdev/) 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/claytongomesdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="100" height="20" alt="LinkedIn">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5511940297654">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100" height="20" alt="WhatsApp">
+  </a>
+</p>
 
 
 # 💻 Tech Stack:
