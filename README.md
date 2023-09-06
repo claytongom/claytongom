@@ -3,7 +3,7 @@
 </div>
 
 <samp>
-  hello, i'm Clayton! i'm a full stack developer. currently, i dedicate myself to improving my python skills through my studies at the <a href="https://www.betrybe.com/">Trybe</a> school.
+  hello, i'm Clayton! i'm a full stack developer. currently, i dedicate myself to improving my python skills through my studies at the <a href="https://www.betrybe.com/">Trybe School</a>.
   passionate about technology and creative things, i'm always looking to learn new things. i even had the opportunity to develop many projects and i invite you to check them out.
 </samp>
 
@@ -17,9 +17,8 @@
 - 🎧 <samp>- listen to music</samp>
 
 <br>
-<samp>tech stack:</samp>
-
-<br><div align="center">
+<samp>var technologies = {</samp>
+<div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40">
@@ -40,30 +39,28 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="PostMan" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="40">  
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express" width="40">
-  </div>
+  </div>  
 </div>
+<samp align="left">}</samp>
 <br>
-<samp>connect with me:</samp>
-<br><p align="center">
+<samp>var connect_with_me = {</samp>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://linkedin.com/in/claytongomesdev/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="40" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/claytonabgomes">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="40" alt="WhatsApp">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="40" alt="Twitter">
   </a>
   <a href="https://instagram.com/cla.ytor?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="40" alt="Instagram">
-  </a>
+  </a>  
   <a href="https://wa.me/5511940297654">
     <img src="https://github.com/BEN00262/whatsapp-embed-icon/blob/main/icons/wa.svg" width="40" alt="WhatsApp">
   </a>
-</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=claytongom&icon=2&color=0)](https://visitcount.itsvg.in)
-
+ </div> 
 </div>
- 
+<samp align="left">}</samp> 
 
 
 
