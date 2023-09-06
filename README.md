@@ -2,21 +2,24 @@
   <img src="https://user-images.githubusercontent.com/113382266/229936773-53061f97-8a32-401d-a5da-01235fc69cc2.gif" width="400" />
 </div>
 
-
-## Hi there! 😃
-
-I'm Clayton Gomes, I live in Brazil (🇧🇷) and I'm a Full Stack developer. Currently, I dedicate myself to improving my Python skills through my studies at the Trybe school.
-Passionate about technology and creative things, I'm always looking to learn new things. I even had the opportunity to develop many projects and I invite you to check them out.
-
-In my free time i like to:
-- 🚴🏾‍♀️ - Enjoy family and friends
-- 🏔️ - Mountain trekking;
-- ♟️ - play chess. I'm claytorrr on chess.com (play with me 😎)
-- 🎧 - Listen to music
+<samp>
+  hello, i'm Clayton! i'm a full stack developer. currently, i dedicate myself to improving my python skills through my studies at the <a href="https://www.betrybe.com/">Trybe</a> school.
+  passionate about technology and creative things, i'm always looking to learn new things. i even had the opportunity to develop many projects and i invite you to check them out.
+</samp>
 
 
-## Tech Stack:
-<div align="center">
+<br><samp>in my free time i like to:</samp>
+
+
+- 🚴🏾‍♀️ <samp>- enjoy family and friends</samp>
+- 🏔️ <samp>- mountain trekking;</samp>
+- ♟️ <samp>- play chess. i'm <a href="https://www.chess.com/member/claytorrr">claytorrr</a> on chess.com (play with me 😎)</samp>
+- 🎧 <samp>- listen to music</samp>
+
+<br>
+<samp>tech stack:</samp>
+
+<br><div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40">
@@ -39,9 +42,9 @@ In my free time i like to:
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express" width="40">
   </div>
 </div>
-
-## Socials:
-<p align="center">
+<br>
+<samp>connect with me:</samp>
+<br><p align="center">
   <a href="https://linkedin.com/in/claytongomesdev/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="40" alt="LinkedIn">
   </a>
