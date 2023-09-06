@@ -37,8 +37,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="PostMan" width="40">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="40">  
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express" width="40">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="40">      
   </div>  
 </div>
 <samp align="left">}</samp>
