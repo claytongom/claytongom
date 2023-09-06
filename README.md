@@ -5,7 +5,7 @@
 
 ## Hi there! 😃
 
-### My name is Clayton Gomes from Brazil (🇧🇷). I'm a Full Stack web development student at Trybe school and I already have a Front-End certificate.
+I'm Clayton Gomes, I live in Brazil (🇧🇷) and I'm a Full Stack developer. Currently, I dedicate myself to improving my Python skills through my studies at the Trybe school.
 Passionate about technology and creative things, I'm always looking to learn new things. I even had the opportunity to develop many projects and I invite you to check them out.
 
 In my free time i like to:
@@ -15,7 +15,7 @@ In my free time i like to:
 - 🎧 - Listen to music
 
 
-# 💻 Tech Stack:
+## Tech Stack:
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40">
@@ -40,7 +40,7 @@ In my free time i like to:
   </div>
 </div>
 
-## 🌐 Socials:
+## Socials:
 <p align="center">
   <a href="https://linkedin.com/in/claytongomesdev/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="40" alt="LinkedIn">
