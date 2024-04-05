@@ -3,8 +3,7 @@
 </div>
 
 <samp>
-  hello, i'm Clayton! i'm a full stack developer. currently, i dedicate myself to improving my python skills through my studies at the <a href="https://www.betrybe.com/">Trybe School</a>.
-  passionate about technology and creative things, i'm always looking to learn new things. i even had the opportunity to develop many projects and i invite you to check them out.
+  Hello, I'm Clayton! I'm a full stack developer. I've recently completed my course in web development and Python, and I'm now seeking opportunities to apply my skills. Passionate about technology and creativity, I'm always eager to learn. I've developed numerous projects, and I invite you to check them out.
 </samp>
 
 
