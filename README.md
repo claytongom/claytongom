@@ -3,17 +3,17 @@
 </div>
 
 <samp>
-  Hello, I'm Clayton! I'm a full stack developer. I've recently completed my course in web development and Python, and I'm now seeking opportunities to apply my skills. Passionate about technology and creativity, I'm always eager to learn. I've developed numerous projects, and I invite you to check them out.
+  Olá, meu nome é Clayton! Sou um desenvolvedor full stack. Concluí recentemente meu curso em desenvolvimento web e Python e agora estou em busca de oportunidades para aplicar minhas habilidades. Apaixonado por tecnologia e criatividade, estou sempre disposto a aprender. Desenvolvi inúmeros projetos e convido você a conferir.
 </samp>
 
 
-<br><samp>in my free time i like to:</samp>
+<br><samp>no meu tempo livre eu gosto de:</samp>
 
 
-- 🚴🏾‍♀️ <samp>- enjoy family and friends</samp>
-- 🏔️ <samp>- mountain trekking;</samp>
-- ♟️ <samp>- play chess. i'm <a href="https://www.chess.com/member/claytorrr">claytorrr</a> on chess.com (play with me 😎)</samp>
-- 🎧 <samp>- listen to music</samp><br>
+- 🚴🏾‍♀️ <samp>- curtir família e amigos</samp>
+- 🏔️ <samp>- trekking de montanha</samp>
+- ♟️ <samp>- jogar xadrez. sou claytorrr no chess.com (jogue comigo 😎)</samp>
+- 🎧 <samp>- ouvir música</samp><br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=claytoncnx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
