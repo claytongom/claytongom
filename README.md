@@ -3,7 +3,11 @@
 </div>
 
 <samp>
-  Olá, meu nome é Clayton! Sou um desenvolvedor full stack. Concluí recentemente meu curso em desenvolvimento web e Python e agora estou em busca de oportunidades para aplicar minhas habilidades. Apaixonado por tecnologia e criatividade, estou sempre disposto a aprender. Desenvolvi inúmeros projetos e convido você a conferir.
+  olá, meu nome é Clayton! sou um desenvolvedor mobile iOS com experiência em criar soluções criativas e eficientes para dispositivos Apple. atualmente, faço parte do Banco do Brasil, reconhecido como o melhor banco do Brasil, onde aplico minhas habilidades para transformar desafios tecnológicos em resultados inovadores.
+
+recentemente, concluí um curso em desenvolvimento web e Python, ampliando meu conhecimento em tecnologias modernas. sou apaixonado por tecnologia, sempre em busca de aprendizado contínuo, e valorizo a combinação entre criatividade e funcionalidade no desenvolvimento de aplicativos.
+
+no meu portfólio, você encontrará diversos projetos que refletem meu compromisso com qualidade e inovação. fique à vontade para explorar e me chamar para conversar sobre ideias, colaborações ou até mesmo apenas para trocar conhecimento.
 </samp>
 
 
